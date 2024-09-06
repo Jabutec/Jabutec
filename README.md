@@ -1,7 +1,25 @@
-## Hi there 👋
+<h1>Hi, I'm Jabulani <br/><a 
+<h2>👨‍💻 Software Development Projects:</h2>
 
-<!--
-**Jabutec/Jabutec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+
+- <b>Web development</b>
+  
+- <b>C# (.NET Desktop Applications)</b>
+ 
+- <b>Python</b>
+
+
+<h2>📺 Popular YouTube Videos</h2>
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[twitter]: https://x.com/JabulaniBee
+[youtube]: https://www.youtube.com/channel/UCnRLCWn9d0TjR6HiaqsHIKQ
+[instagram]: https://www.instagram.com/jabulani_18
+
+
 
 Here are some ideas to get you started:
 
