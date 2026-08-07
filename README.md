@@ -1,17 +1,17 @@
-# Jabulani Mokoena | Data Engineering & Analysis
+# Jabulani Mokoena | Data Enthusiast
 
-## 🎓 Education
-**BSc in Information Technology** *North-West University (2022 — 2025)*
+##  Education
+**BSc in Information Technology** *Graduated May 2026*
 
 ---
 
 ## Technical Skills
 
 ### **Languages**
-* **Data/Scripting:** Python, SQL
+* **Stack:** Python, SQL
 
 ### **Databases & Tools**
-* **Data:** MySQL, Power BI, Jupyter Notebook
+* **Data:** SQLite, Power BI, Jupyter Notebook
 * **Cloud:** Azure *(currently studying towards DP-900)*
 * **Version Control:** Git
 
