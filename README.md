@@ -1,7 +1,7 @@
 # Jabulani Mokoena | Data Engineering & Analysis
 
 ## 🎓 Education
-**Bachelor of Science in Information Technology** *North-West University (2022 — 2025)*
+**BSc in Information Technology** *North-West University (2022 — 2025)*
 
 ---
 
