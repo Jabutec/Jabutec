@@ -1,48 +1,44 @@
-# Jabulani Mokoena | Data Enthusiast
+# Jabulani Mokoena
 
-##  Education
-**BSc in Information Technology** *Graduated May 2026*
+**Software & Data Developer**
 
----
+I build software and data products while developing my skills across **software development, data analysis, data engineering, and business intelligence**.
+
+## Education
+
+**BSc in Information Technology**
+Graduated May 2026
 
 ## Technical Skills
 
-### **Languages**
-* **Stack:** Python, SQL
+**Languages:** Python, SQL
 
-### **Databases & Tools**
-* **Data:** SQLite, Power BI, Jupyter Notebook
-* **Cloud:** Azure *(currently studying towards DP-900)*
-* **Version Control:** Git
+**Data & Analytics:** Pandas, SQLite, Power BI, Jupyter Notebook
 
-### **Core Concepts**
-* Data Analysis & Visualization
-* Data Modelling *(foundational, still building)*
-* Decision Support Systems
+**Databases:** PostgreSQL, SQLite
 
----
+**Cloud & Tools:** Azure, Git
 
 ## Featured Projects
 
-### Stockflow
-A command-line inventory management tool, built as a learning project
-to level up my Python skills beyond basic scripts into a real,
-growing application.
+### [StockFlow](https://github.com/Jabutec/stockflow)
 
----
+Business management system for inventory, customers, and sales — built with Python.
 
-## Career Objectives
-I'm working toward a role where I can grow into Data Engineering or Data Analysis. My focus areas are:
-* **Data Analysis**
-* **Data Engineering**
-* **Business Intelligence**
+### [Capital Signal](https://github.com/Jabutec/capital-signal)
 
----
+Business financial intelligence platform that turns fragmented transaction data into clear financial insights.
 
-## Connect & Collaborate
-I'm always open to discussing data, reviewing work, or exploring opportunities. **Feel free to view my repositories and let's talk!**
+## Currently Learning
 
-* [Live Portfolio](https://jabutech.vercel.app)
-* [Email Me](mailto:jabutech18@gmail.com)
+* Data Engineering
+* Business Intelligence
+* PostgreSQL
+* Software Architecture
+* Cloud Computing
+
+## Connect
+
+* [Portfolio](https://jabutech.vercel.app)
+* [Email](mailto:mokoenajabulani730@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/jabulani-mokoena/)
-* [Twitter/X](https://x.com/JabuTech)
