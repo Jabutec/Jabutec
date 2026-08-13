@@ -25,7 +25,7 @@ Graduated May 2026
 
 Business management system for inventory, customers, and sales — built with Python.
 
-### [Capital Signal](https://github.com/Jabutec/capital-signal)
+### [zakascore](https://github.com/Jabutec/capital-signal)
 
 Business financial intelligence platform that turns fragmented transaction data into clear financial insights.
 
