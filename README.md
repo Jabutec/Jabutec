@@ -21,7 +21,7 @@ Graduated May 2026
 
 ## Featured Projects
 
-### [StockFlow](https://github.com/Jabutec/stockflow)
+### [stockflow](https://github.com/Jabutec/stockflow)
 
 Business management system for inventory, customers, and sales — built with Python.
 
