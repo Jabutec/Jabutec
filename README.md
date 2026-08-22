@@ -23,11 +23,11 @@ Graduated May 2026
 
 ### [stockflow](https://github.com/Jabutec/stockflow)
 
-Business management system for inventory, customers, and sales — built with Python.
+StockFlow is a lightweight Point-of-Sale (POS) system built for small and growing businesses.
 
 ### [zakascore](https://github.com/Jabutec/capital-signal)
 
-Business financial intelligence platform that turns fragmented transaction data into clear financial insights.
+ZakaScore is a financial intelligence platform being built for small and medium-sized businesses in South Africa.
 
 ## Currently Learning
 
