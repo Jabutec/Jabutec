@@ -21,9 +21,9 @@ Graduated May 2026
 
 ## Featured Projects
 
-### [stockflow](https://github.com/Jabutec/stockflow)
+### [kasi-pitchside](https://github.com/Jabutec/kasi-pitchside)
 
-StockFlow is a lightweight Point-of-Sale (POS) system built for small and growing businesses.
+An end-to-end data engineering platform for PSL analytics and automated sports content creation
 
 ### [zakascore](https://github.com/Jabutec/capital-signal)
 
